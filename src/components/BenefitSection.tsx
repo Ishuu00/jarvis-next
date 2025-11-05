@@ -5,9 +5,9 @@ import Image from "next/image";
 const BenefitSection = () => {
   return (
     <>
-      <div className="my-10 sm:mt-20">
+      <div className="mt-20 mb-10">
         <h2 className="text-center text-2xl font-bold sm:text-3xl md:text-4xl">
-          Chat Smarter, Not Harder <br />
+          Work Smarter, Not Harder <br />
           with Brainwave
         </h2>
       </div>

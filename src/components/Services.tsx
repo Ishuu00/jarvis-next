@@ -50,7 +50,7 @@ const Services = () => {
         </div>
 
         {/* Box2 left */}
-        <div className="max-w-7xl  mx-auto p-1">
+        <div className="max-w-7xl mt-5  mx-auto p-1">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 border border-gray-700 rounded-4xl overflow-hidden p-4 md:p-6">
             {/* Image 1 */}
             <div className="relative flex items-center justify-center hover:scale-105 transition-transform duration-300">
